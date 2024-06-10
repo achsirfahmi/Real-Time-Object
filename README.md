@@ -4,6 +4,7 @@ Kelompok 1
   2. Faishal Fernando
   3. Firyal Wishal Nabili
   4. Kus Dwi Prasetyo
+  5. Achmad Sirajul Fahmi
 
 Kode program ini menggunakan model MobileNet-SSD untuk mendeteksi objek vieo atau stream kamera. Program menerima input berupa video file atua stream dari kamera. memproses frame video, dan menampilkan hasil deteksi objek secara real-time.
 alur dari program ini adalah program dimulai dengan memanggil main lalu membaca argumen parse lalu meload data yang sudah ditraning lalu membuka stram kamera/ Program ini juga memiliki loop utama yaitu membaca frame dari kamera, melakukan preprocessing pada kamera. 
